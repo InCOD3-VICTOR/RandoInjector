@@ -1,6 +1,6 @@
 # RandoInjector
 
-# Credits for bypass goes to https://github.com/danielkrupinski
+## Credits for bypass goes to https://github.com/danielkrupinski
 
 ## How to compile?
 1) Change variable called DLL_NAME (its almost on top) to your desired dll name.
