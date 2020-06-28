@@ -1,4 +1,4 @@
-# RandoInjector
+# RandoInjector ~Update
 
 ## Credits for bypass goes to https://github.com/danielkrupinski
 
